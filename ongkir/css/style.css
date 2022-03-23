@@ -1,0 +1,11 @@
+body{
+    background: #2F303E;
+    font-family: 'Nunito', sans-serif;
+}
+input{
+    display: block;
+    width: 100%;
+}
+button{
+    width: 80%;
+}
